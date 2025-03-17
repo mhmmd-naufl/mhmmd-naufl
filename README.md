@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&left=true&vCenter=true&width=435&lines=Wong+Tulus;Web+Developer;UI%2FUX+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 # <strong>Hi there :wave: , I'm Muhammad Naufal A!</strong>
 Lifelong Learner    
 🎓 I'm a student of Politeknik Negeri Banyuwangi as Informatics engineering student.     
