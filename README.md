@@ -2,8 +2,8 @@
 Lifelong Learner    
 🎓 I'm a student of Politeknik Negeri Banyuwangi as Informatics engineering student.     
 🔭 Internsship on Kominfo Banyuwangi  
-🌍 Based in Banyuwangi 
-⚡ passionate about Design & Technology
+🌍 Based in Banyuwangi   
+⚡ passionate about Design & Technology  
 
 ### <strong>Tools:</strong>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
